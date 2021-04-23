@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin: 2rem;
+    font-family: sans-serif;
+  }
+  a {
+      text-decoration: none;
+      color: black;
+  }
+  
+  table {
+      margin: 2rem auto;
+  }
+  table a {
+      color: red;
+      text-decoration: none;
+  }
